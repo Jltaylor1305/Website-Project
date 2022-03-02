@@ -14,4 +14,4 @@ Cats are evil :(
 
 This is my second page:
 
-https://jltaylor1305.github.io/Website-Project/2%20page
+[Go to the second page!](https://jltaylor1305.github.io/Website-Project/2%20page)
