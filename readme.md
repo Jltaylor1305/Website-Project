@@ -12,6 +12,5 @@ This is a cat
 
 Cats are evil :(
 
-This is my second page:
 
 [Go to the second page!](https://jltaylor1305.github.io/Website-Project/2%20page)
